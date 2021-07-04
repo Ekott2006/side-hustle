@@ -25,10 +25,10 @@ class Body extends State<Home> {
 
       // Top bar
       appBar: AppBar(
-          backgroundColor: Colors.blue,
-          title: Text('Nigerian Weather',
+          backgroundColor: Colors.black,
+          title: Text('Port Harcourt Weather',
               style: TextStyle(
-                  color: Colors.black,
+                  color: Color(0xE6E5EA66),
                   fontSize: 40.0
               )
           )
